@@ -1,6 +1,6 @@
-# print(1282)
+print(1282)
 
-# variable = 12
+variable = 12
 
 # int,float,bool, str
 
@@ -12,8 +12,8 @@
 # raqamlar boshlash mumkin emas!!
 # yahlit bo'lishi kerak
 
-# book_pages = 200
-# print(book_pages + 100) # kitob sahifalari 100 ga oshirildi
+book_pages = 200
+print(book_pages + 100) # kitob sahifalari 100 ga oshirildi
 
 # float
 
@@ -25,15 +25,15 @@
 
 # True False
 
-# print(12 > 3)
+print(12 > 3)
 
 # str
 
-# word = 'qandaydir so\'z'
-# soz = "delfin"
-# gap = """maktab"""
+word = 'qandaydir so\'z'
+soz = "delfin"
+gap = """maktab"""
 
-# print(word,soz,gap,sep="|")
+print(word,soz,gap,sep="|")
 
 print("Sariq",end=",")
 print("Yashil")
