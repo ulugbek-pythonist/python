@@ -9,6 +9,9 @@
 
 # print("Assalomu alaykum, " + ism)
 
+import datetime
+
+
 son = input("Son kiriting: ")
 son = int(son)
 print(son * 2)
@@ -19,3 +22,9 @@ print(son * 2)
 
 # Foydalanuvchidan yoshini kiritishini so'rang 
 # va qachon tug'ilganini aytib bering
+
+yosh = input("Yoshingizni kiriting: ")
+
+yosh = int(yosh)
+yil = datetime.date.today().year
+print(f"{yil - yosh} - yil")
