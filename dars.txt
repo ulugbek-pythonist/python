@@ -1,0 +1,4 @@
+#print
+#comments(izohlar)
+#variables(o'zgaruvchilar)
+#primitivetypes(sodda turlar)
