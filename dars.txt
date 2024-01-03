@@ -1,4 +1,6 @@
 #print
-#comments(izohlar)
-#variables(o'zgaruvchilar)
-#primitivetypes(sodda turlar)
+#end #sep
+#kutubxonalar
+#import #from
+#naming_vars
+#casting(tur o'zgartirish)
