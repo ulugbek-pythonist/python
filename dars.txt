@@ -1,7 +1,0 @@
-string methods
-
-"python"
-
-0 1 2 3 4 5
-p y t h o n
-    -3 -2 -1
